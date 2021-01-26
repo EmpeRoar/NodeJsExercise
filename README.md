@@ -1,1 +1,6 @@
 # NodeJsExercise
+
+
+```
+npm init
+```
